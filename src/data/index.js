@@ -25,6 +25,32 @@ const employeesData = [
     city:'ksjnenkl',
     pincode:'875348'
   },
+  {
+    id: 3,
+    firstName: 'Gdrienne',
+    lastName: 'Doak',
+    className:'III',
+    divisionName:'B',
+    rollNumber:'21',
+    address1:'jsiwueodho',
+    address2:'kjewdnowqo kjnj',
+    landmark:'jabjdhh',
+    city:'ksjnenkl',
+    pincode:'875348'
+  },
+  {
+    id: 4,
+    firstName: 'Ldrienne',
+    lastName: 'Doak',
+    className:'IV',
+    divisionName:'B',
+    rollNumber:'21',
+    address1:'jsiwueodho',
+    address2:'kjewdnowqo kjnj',
+    landmark:'jabjdhh',
+    city:'ksjnenkl',
+    pincode:'875348'
+  },
 ];
 
 export { employeesData };
